@@ -1,20 +1,27 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Suggestion
+about: Share your ideas to help improve the server
+title: '[SUGGESTION] '
+labels: 'enhancement'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Suggestion Description**
+A clear and concise description of your suggestion.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Why is this beneficial?**
+Explain why you think this suggestion would be beneficial for the server.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Implementation Details (if applicable)**
+If you have specific ideas on how this suggestion could be implemented, provide details here.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Additional Information:**
+- **Minecraft Version (if relevant):**
+- **Screenshots/Concepts (if applicable):**
+
+**Contact Information (optional):**
+- **Minecraft Username:**
+- **Discord (if available):**
+
+**Note:** Your input is valuable in helping us enhance the server experience. Thank you for your suggestion!
