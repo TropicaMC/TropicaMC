@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: Minecraft Server Bug Report
+about: Report a bug to help us improve the server
+title: '[BUG] '
+labels: 'bug'
 assignees: ''
 
 ---
@@ -12,27 +12,24 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. 
+2. 
+3. 
+4. 
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots/Video**
+If applicable, add screenshots or a video link to help explain the problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Client Details:**
+- Minecraft Version:
+- Mods/Plugins Installed:
 
 **Additional context**
 Add any other context about the problem here.
+
+**Contact Information:**
+- Minecraft Username:
+- Discord (if available):
