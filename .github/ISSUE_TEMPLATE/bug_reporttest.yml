@@ -4,6 +4,7 @@ title: "[Bug]: "
 labels: ["bug"]
 projects: []
 assignees:
+  -
 body:
   - type: textarea
     id: what-happened
